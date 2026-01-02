@@ -1,4 +1,4 @@
-**📊 Social Media Campaign Tracker (Looker Studio)**
+**📊 SOCIAL MEDIA CAMPAIGN PERFORMANCE TRACKER (Looker Studio)**
 
 ---
 
