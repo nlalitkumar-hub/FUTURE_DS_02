@@ -7,7 +7,7 @@
 An automated marketing dashboard that connects Google Sheets data to Google Looker Studio. 
 This project evaluates Facebook and Instagram ad performance, focusing on audience behavior, spend efficiency, and conversion profitability.
 
---
+<hr style="height:1px">
 
 **🎯 Key Objectives**
 
@@ -17,7 +17,7 @@ Budget Optimization: Identifying the most cost-effective campaigns.
 
 Audience Profiling: Analyzing performance across age and gender segments.
 
---
+<hr style="height:1px">
 
 **🛠️ Tech Stack & Skills**
 
@@ -25,7 +25,7 @@ Tools: Google Sheets (Data Storage), Google Looker Studio (Visualization).
 
 Skills: Data Cleaning, Calculated Fields, Blending Data, Marketing KPI Reporting.
 
---
+<hr style="height:1px">
 
 **📐 Key Calculated Fields (Looker Studio)**
 
@@ -37,7 +37,7 @@ CPC: Spend / Clicks
 
 Engagement Rate: Engagement / Impressions
 
---
+<hr style="height:1px">
 
 **📊 Dashboard Features**
 
@@ -49,7 +49,7 @@ Scorecards: High-level overview of Total Spend, Clicks, and ROI.
 
 Dynamic Filters: Date range pickers and Campaign ID dropdowns.
 
---
+<hr style="height:1px">
 
 **🚀 How to Use**
 
