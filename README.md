@@ -1,6 +1,6 @@
 **📊 SOCIAL MEDIA CAMPAIGN PERFORMANCE TRACKER (LOOKER STUDIO)**
 
-<hr style="height:3px">
+<hr style="height:6px">
 
 **📌 Overview**
 
